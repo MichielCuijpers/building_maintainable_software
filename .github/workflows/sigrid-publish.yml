@@ -16,7 +16,7 @@ jobs:
         uses: Software-Improvement-Group/sigridci@pass-convert-as-argument
         with:
           customer: maximjanssen
-          system: bms
+          system: bms-new
           convert: 
           publishonly: true
         env:
