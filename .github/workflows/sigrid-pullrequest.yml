@@ -1,4 +1,4 @@
-5name: Sigrid pull request feedback
+name: Sigrid pull request feedback
 on: [pull_request]
 
 jobs:
